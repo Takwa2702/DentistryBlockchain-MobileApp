@@ -12,7 +12,6 @@ Mobile app for the blockchain-based electronic dental records system as part of 
 
 ## Technologies Used
 - **React Native**: For building cross-platform mobile applications.
-- **Node.js & Express**: Backend services for API integration.
 - ...
 
 
